@@ -1,0 +1,142 @@
+{
+  "entities": [
+    {
+      "oib": "11111",
+      "organizacijskaJedinica": [
+        {
+          "ustanovaId": 1,
+          "sifra": "11-11",
+          "podsifra": "1111",
+          "naziv": "ORGJEd1",
+          "aktivna": true,
+          "zadnjaPromjena": "2022-10-26T12:31:09.846Z",
+          "zupanijaId": 1,
+          "adrese": [
+            {
+              "vrijediOd": "2022-10-26T12:31:09.846Z",
+              "vrijediDo": "2022-10-26T12:31:09.846Z",
+              "adresaId": 1,
+              "mjestoId": 1,
+              "mjesto": "string",
+              "adresa1": "Ulica jedinica",
+              "adresa2": "Ulica jedinica",
+              "pp": "string"
+            }
+          ],
+          "kontakti": [
+            {
+              "ustanovaId": 1,
+              "komunikacijaId": 1,
+              "vrijediOd": "2022-10-26T12:31:09.846Z",
+              "vrijediDo": "2022-10-26T12:31:09.846Z",
+              "tipKomunikacijeId": 1,
+              "broj": "01010101",
+              "napomena": "jedan",
+              "sifra": "101"
+            }
+          ]
+        }
+      ],
+      "ustanovaId": 1,
+      "sifra": "11-11",
+      "podsifra": "1100",
+      "naziv": "jedinica org",
+      "aktivna": true,
+      "zadnjaPromjena": "2022-10-26T12:31:09.846Z",
+      "zupanijaId": 1,
+      "adrese": [
+        {
+          "vrijediOd": "2022-10-26T12:31:09.846Z",
+          "vrijediDo": "2022-10-26T12:31:09.846Z",
+          "adresaId": 1,
+          "mjestoId": 1,
+          "mjesto": "string",
+          "adresa1": "Prca ulica",
+          "adresa2": "Prva ulica",
+          "pp": "111111111"
+        }
+      ],
+      "kontakti": [
+        {
+          "ustanovaId": 1,
+          "komunikacijaId": 1,
+          "vrijediOd": "2022-10-26T12:31:09.846Z",
+          "vrijediDo": "2022-10-26T12:31:09.846Z",
+          "tipKomunikacijeId": 1,
+          "broj": "1",
+          "napomena": "1",
+          "sifra": "1"
+        }
+      ]
+    },
+    {
+      "oib": "2222",
+      "organizacijskaJedinica": [
+        {
+          "ustanovaId": 2,
+          "sifra": "22-22",
+          "podsifra": "2222",
+          "naziv": "ORGJEd2",
+          "aktivna": true,
+          "zadnjaPromjena": "2022-10-26T12:31:09.846Z",
+          "zupanijaId": 2,
+          "adrese": [
+            {
+              "vrijediOd": "2022-10-26T12:31:09.846Z",
+              "vrijediDo": "2022-10-26T12:31:09.846Z",
+              "adresaId": 2,
+              "mjestoId": 2,
+              "mjesto": "string",
+              "adresa1": "Ulica dvojki",
+              "adresa2": "Ulica dvojki",
+              "pp": "string"
+            }
+          ],
+          "kontakti": [
+            {
+              "ustanovaId": 2,
+              "komunikacijaId": 2,
+              "vrijediOd": "2022-10-26T12:31:09.846Z",
+              "vrijediDo": "2022-10-26T12:31:09.846Z",
+              "tipKomunikacijeId": 2,
+              "broj": "01010101",
+              "napomena": "dva",
+              "sifra": "202"
+            }
+          ]
+        }
+      ],
+      "ustanovaId": 2,
+      "sifra": "22-22",
+      "podsifra": "2200",
+      "naziv": "jedinica org",
+      "aktivna": true,
+      "zadnjaPromjena": "2022-10-26T12:31:09.846Z",
+      "zupanijaId": 2,
+      "adrese": [
+        {
+          "vrijediOd": "2022-10-26T12:31:09.846Z",
+          "vrijediDo": "2022-10-26T12:31:09.846Z",
+          "adresaId": 2,
+          "mjestoId": 2,
+          "mjesto": "string",
+          "adresa1": "Druga ulica",
+          "adresa2": "Druga ulica",
+          "pp": "2222222222"
+        }
+      ],
+      "kontakti": [
+        {
+          "ustanovaId": 2,
+          "komunikacijaId": 2,
+          "vrijediOd": "2022-10-26T12:31:09.846Z",
+          "vrijediDo": "2022-10-26T12:31:09.846Z",
+          "tipKomunikacijeId": 2,
+          "broj": "2",
+          "napomena": "2",
+          "sifra": "2"
+        }
+      ]
+    }
+  ]
+}
