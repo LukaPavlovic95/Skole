@@ -1,7 +1,7 @@
 {
   "entities": [
     {
-      "oib": "11111",
+      "oib": "42793196445",
       "organizacijskaJedinica": [
         {
           "ustanovaId": 1,
@@ -18,8 +18,8 @@
               "adresaId": 1,
               "mjestoId": 1,
               "mjesto": "string",
-              "adresa1": "Ulica jedinica",
-              "adresa2": "Ulica jedinica",
+              "adresa1": "Kozjačka 41a",
+              "adresa2": "Kozjačka 42a",
               "pp": "string"
             }
           ],
@@ -30,8 +30,8 @@
               "vrijediOd": "2022-10-26T12:31:09.846Z",
               "vrijediDo": "2022-10-26T12:31:09.846Z",
               "tipKomunikacijeId": 1,
-              "broj": "01010101",
-              "napomena": "jedan",
+              "broj": "01",
+              "napomena": "napomena1",
               "sifra": "101"
             }
           ]
@@ -40,7 +40,7 @@
       "ustanovaId": 1,
       "sifra": "11-11",
       "podsifra": "1100",
-      "naziv": "jedinica org",
+      "naziv": "Testna osnovna škola",
       "aktivna": true,
       "zadnjaPromjena": "2022-10-26T12:31:09.846Z",
       "zupanijaId": 1,
@@ -51,8 +51,8 @@
           "adresaId": 1,
           "mjestoId": 1,
           "mjesto": "string",
-          "adresa1": "Prca ulica",
-          "adresa2": "Prva ulica",
+          "adresa1": "Kozjačka 41a",
+          "adresa2": "Kozjačka 42a",
           "pp": "111111111"
         }
       ],
@@ -70,13 +70,13 @@
       ]
     },
     {
-      "oib": "2222",
+      "oib": "24690015942",
       "organizacijskaJedinica": [
         {
           "ustanovaId": 2,
           "sifra": "22-22",
           "podsifra": "2222",
-          "naziv": "ORGJEd2",
+          "naziv": "orgjed2",
           "aktivna": true,
           "zadnjaPromjena": "2022-10-26T12:31:09.846Z",
           "zupanijaId": 2,
@@ -87,8 +87,8 @@
               "adresaId": 2,
               "mjestoId": 2,
               "mjesto": "string",
-              "adresa1": "Ulica dvojki",
-              "adresa2": "Ulica dvojki",
+              "adresa1": "Mlinska 2a",
+              "adresa2": "Mlinska 2a",
               "pp": "string"
             }
           ],
@@ -109,7 +109,7 @@
       "ustanovaId": 2,
       "sifra": "22-22",
       "podsifra": "2200",
-      "naziv": "jedinica org",
+      "naziv": "Testna osnovna škola2",
       "aktivna": true,
       "zadnjaPromjena": "2022-10-26T12:31:09.846Z",
       "zupanijaId": 2,
@@ -120,8 +120,8 @@
           "adresaId": 2,
           "mjestoId": 2,
           "mjesto": "string",
-          "adresa1": "Druga ulica",
-          "adresa2": "Druga ulica",
+          "adresa1": "Mlinska 2a",
+          "adresa2": "Mlinska 2a",
           "pp": "2222222222"
         }
       ],
